@@ -1,13 +1,25 @@
-
+.tools {
+  border-radius: 0px;
+  background-color: rgb(53, 55, 60);
+  text-align: center;
+}
 
 .about-container {
-  background-color: white;
-  height: 200px;
+  background-color: rgb(53, 55, 60);
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
 }
 
-#sql {
-  margin-top: 20px;
+.p {
+  display: flex;
+  width: 250px;
+  align-items: center;
 }
+
+
 
 .fab {
   font-size: 100px;
@@ -26,6 +38,7 @@
   color: #59CD12; 
 }
 
+
 #rails {
   width:100px;
   height: auto;
@@ -33,11 +46,19 @@
 
 #mongo {
   width: 100px;
+  background-color: rgb(20, 21, 24);
+  /* padding: 20px; */
 }
 
 #postgresql {
   width: 100px;
   color: blue;
+}
+
+.description {
+  color:white;
+  writing-mode: vertical-rl;
+text-orientation: upright;
 }
 
 /* .post {
