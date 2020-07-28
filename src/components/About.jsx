@@ -15,7 +15,7 @@ export default function About() {
     <div className='about-container'>
       
       <div className='box-sql p'>
-        <img id='sql' classname='.sql' src={sql} alt='img' />
+        <img id='sql' className='.sql' src={sql} alt='img' />
         <p className='description'>SQL</p>
       </div>
 
@@ -35,12 +35,12 @@ export default function About() {
       </div>
       
       <div className='box-react p'>
-          <i class="fab fa-react"></i>
+          <i className="fab fa-react"></i>
           <p className='description'>JS-REACT</p>
       </div>
       
       <div className='box-node p'>
-          <i class="fab fa-node"></i>
+          <i className="fab fa-node"></i>
           <p className='description'>NODE.JS</p>
       </div>
       

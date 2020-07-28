@@ -1,0 +1,39 @@
+.footer {
+  height: 200px;
+  background-color: rgb(53, 55, 60);
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  
+}
+
+#linkedIn-icon {
+  color: rgb(48, 118, 176);
+  /* width: 300px; */
+  /* flex: 1 */
+}
+
+#github-icon {
+  color: white;
+  /* width: 300px; */
+  /* flex: 1 */
+}
+
+.email {
+  color: white;
+  /* width: 300px; */
+  /* flex: 1 */
+}
+
+/* a {
+  width: 200px;
+} */
+
+.bottom {
+  margin-top: 20px;
+  /* width: 200px; */
+}
+
+.bottom-icon {
+  margin: 50px;
+}
