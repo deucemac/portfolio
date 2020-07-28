@@ -13,3 +13,33 @@
   font-size: 100px;
   color: #EA5665;
 }
+
+.js {
+  color:#EAE856;
+}
+
+.fa-react {
+  color: #56EAE6;
+}
+
+.fa-node {
+  color: #59CD12; 
+}
+
+#rails {
+  width:100px;
+  height: auto;
+}
+
+#mongo {
+  width: 100px;
+}
+
+#postgresql {
+  width: 100px;
+  color: blue;
+}
+
+/* .post {
+  /* color: #1191CD; */
+/* } */
