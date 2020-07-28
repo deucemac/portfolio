@@ -28,7 +28,7 @@ header {
   display: flex;
   align-items: center;
 }
-img {
+.profile-pic {
   width: 90px;
   height: 90px;
   border-radius: 50%;

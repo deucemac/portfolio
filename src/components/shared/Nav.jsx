@@ -11,7 +11,7 @@ const Nav = () => {
         </div>
       
         <div className='profile' >
-        <img src='https://i.imgur.com/JUnMFjn.jpg' />
+        <img className='profile-pic' src='https://i.imgur.com/JUnMFjn.jpg' />
         </div>
       
         <header className='header'>
