@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Can't Shut App",
+    "imgURL": "https://i.imgur.com/zLjD43M.png",
+    "githubLink": "https://github.com/deucemac/can-t-Shut-app",
+    "websiteURL": "http://cantshutapp.surge.sh/login",
+    "description": "A messaging app that let's users create chat rooms and chat with people all around world."
+  },
+  {
+    "id": "2",
+    "name": "Chef's Choice",
+    "imgURL": "https://i.imgur.com/xh3YInH.png",
+    "githubLink": "https://github.com/snsebro/chefs-choice",
+    "websiteURL": "http://chefs-choice.surge.sh/",
+    "description": "Had the chance to work with other engineers and collaborate with UX designers to build a cooking app that features chefs and their unique recipes."
+  },
+  {
+    "id": "3",
+    "name": "Book Viewer",
+    "imgURL": "https://i.imgur.com/EicsYmJ.png",
+    "githubLink": "https://github.com/deucemac/book-viewer",
+    "websiteURL": "https://caring-potato.surge.sh/",
+    "description": "Created a clean user interface to search the web for books, along with a book-preview modal that let's the user read the book."
+  },
+  {
+    "id": "4",
+    "name": "Time Trial Trivia",
+    "imgURL": "https://i.imgur.com/00LKGT1.jpg",
+    "githubLink": "https://github.com/deucemac/Time-Trial-Trivia",
+    "websiteURL": "http://snagthatquestion.surge.sh/",
+    "description": "A fun trivia game that prompts the player to click moving objects while trying to answer game questions."
+  }
+]

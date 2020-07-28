@@ -1,0 +1,38 @@
+.project-container {
+  height: 400px;
+  background-color: rgba(53, 55, 60, .7);
+  width: 400px;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.name-backg {
+  background-color: teal;
+  text-align: center;
+}
+
+.below-name {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+/* .project-img-container {
+  flex: 1
+} */
+
+.site-img {
+  width:150px;
+  height: 150px;
+  object-fit: cover;
+  
+}
+
+.p-description {
+  color: white;
+}
