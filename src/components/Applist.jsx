@@ -25,7 +25,7 @@ export default class Applist extends Component {
       <Layout>
         <Home />
         <About />
-        <div className='projects-container'>
+        <div id='section-3' className='projects-container'>
           {items}
         </div>
       </Layout>

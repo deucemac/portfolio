@@ -11,8 +11,8 @@ import post from '../post.svg';
 export default function About() {
   return (
     <>
-      <h1 className='tools'>My Tool Kit:</h1>
-    <div className='about-container'>
+      <h1 id='section-2' className='tools'>My Tool Kit:</h1>
+    <div  className='about-container'>
       
       <div className='box-sql p'>
         <img id='sql' className='.sql' src={sql} alt='img' />

@@ -3,7 +3,7 @@ import './Footer.css'
 
 const Footer = () => (
   <footer>
-    <div className='footer'>
+    <div id='section-4' className='footer'>
       <div className='bottom-icon'>
       <a className='bottom' href='https://www.linkedin.com/in/gerand-mcdowell-6102851b1/' target="_blank">
         <i className="fab fa-linkedin" id='linkedIn-icon'></i>
