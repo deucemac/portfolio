@@ -1,0 +1,50 @@
+nav {
+  background-color: rgb(53, 55, 60);
+  margin: 0;
+  height: 15vh;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.name {
+  flex: 1;
+}
+.title {
+  color: white;
+  font-size: 18px;
+}
+.profile {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 0 auto;
+  flex: 1;
+}
+
+span {
+  color: white;
+  font-size: 18px;
+}
+
