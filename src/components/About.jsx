@@ -68,7 +68,6 @@ export default function About() {
           <img id='postgresql' className='post' src={post} alt='img' />
           <p className='description'>POSTGRESQL</p>
       </div>
-
     </div>
       </>
   )

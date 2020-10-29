@@ -17,11 +17,11 @@
   },
   {
     "id": "3",
-    "name": "Book Viewer",
-    "imgURL": "https://i.imgur.com/EicsYmJ.png",
-    "githubLink": "https://github.com/deucemac/book-viewer",
-    "websiteURL": "https://caring-potato.surge.sh/",
-    "description": "Created a clean user interface to search the web for books, along with a book-preview modal that let's the user read the book."
+    "name": "My Buddy List",
+    "imgURL": "https://i.imgur.com/Wp04Wcy.png",
+    "githubLink": "https://github.com/deucemac/MakeFriends",
+    "websiteURL": "http://my-buddy-list.surge.sh",
+    "description": "A great way to send friend requests, keep track of your pals, and receive live user updates using websockets."
   },
   {
     "id": "4",

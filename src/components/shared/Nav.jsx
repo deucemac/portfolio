@@ -19,7 +19,7 @@ const Nav = () => {
           {/* <Link to='/home'><span>home</span></Link> */}
           <Scrollspy items={ ['section-1', 'section-2', 'section-3', 'section-4'] } currentClassName="is-current">  
           <a href='#section-1' ><span>home</span></a>
-          <a href='#section-2' ><span>about</span></a>
+          <a href='#section-2' ><span>skills</span></a>
           <a href='#section-3' ><span>projects</span></a>
           <a href='#section-4' ><span>contact</span></a>
           </Scrollspy>

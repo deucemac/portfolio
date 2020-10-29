@@ -6,6 +6,7 @@ import itemsJSON from '../data/items.json'
 import Projects from '../components/Projects'
 import './Applist.css'
 
+
 export default class Applist extends Component {
   state = {
     apps: []
